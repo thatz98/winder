@@ -1,10 +1,13 @@
-
+import React from 'react';
 import './App.css';
+import Header from './Header';
 
 function App() {
   return (
     <div className="app">
-      <h1>Winder - A Tinder Clone</h1>
+      <Header />
+      {/* Winder Card */}
+      {/* SwipeButtons */}
     </div>
   );
 }
