@@ -3,7 +3,6 @@
 # dependencies
 /winder/node_modules
 /winder/.pnp
-/backend/node_modules
 .pnp.js
 
 # testing
